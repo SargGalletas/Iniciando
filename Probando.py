@@ -35,7 +35,8 @@ if user_input == user:
                 print("ok :c")
         elif select_option == "Cerrar sesión":
             print("Cerrando sesión")
-        elif select_option 
+        elif select_option == 73928:
+            print("Has ingresado el código del control universal")
             
         
     else:
